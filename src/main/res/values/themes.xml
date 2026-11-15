@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Rolli" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/burgundy</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/warm_brown</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="colorSurface">@color/cozy_bg</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        <item name="android:statusBarColor">@color/burgundy_dark</item>
+        <item name="android:windowBackground">@color/cozy_bg</item>
+    </style>
+
+    <style name="Theme.Rolli" parent="Base.Theme.Rolli" />
+</resources>

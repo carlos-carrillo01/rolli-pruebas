@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rolli</string>
+    <string name="app_subtitle">Roles de Canela Artesanales</string>
+    <string name="flavor_nutella">Rol de Nutella</string>
+    <string name="desc_nutella">Rol artesanal con relleno de Nutella.</string>
+    <string name="flavor_queso_crema">Rol de Queso Crema</string>
+    <string name="desc_queso_crema">Rol artesanal con relleno de queso crema.</string>
+    <string name="flavor_canela">Rol de Canela</string>
+    <string name="desc_canela">Rol artesanal con relleno de canela.</string>
+    <string name="flavor_chocolate">Rol de Chocolate</string>
+    <string name="desc_chocolate">Rol artesanal con relleno de chocolate.</string>
+
+    <string name="checkout_title">Finalizar Compra</string>
+    <string name="customer_info">Datos del Cliente</string>
+    <string name="name_hint">Nombre completo</string>
+    <string name="career_hint">Carrera</string>
+    <string name="control_number_hint">No. de control (Opcional)</string>
+    <string name="not_student_label">No soy estudiante</string>
+    <string name="staff_role_hint">Puesto</string>
+    <string name="classroom_hint">Lugar de entrega</string>
+    <string name="classroom_helper">Describe edificio, planta, aula, laboratorio u oficina</string>
+    <string name="phone_number_hint">Teléfono (10 dígitos)</string>
+    <string name="payment_method">Forma de Pago</string>
+    <string name="pay_cash">Efectivo</string>
+    <string name="pay_digital">Transferencia Digital</string>
+    <string name="transfer_details">Datos para Transferencia</string>
+    <string name="clabe_label">CLABE:</string>
+    <string name="beneficiary_label">Beneficiario:</string>
+    <string name="institution_label">Institución:</string>
+    <string name="clabe_value">722969020391049881</string>
+    <string name="beneficiary_value">Diego Gutierrez Hernandez</string>
+    <string name="institution_value">Mercado Pago W</string>
+    <string name="concept_note">Importante: Incluye tu nombre en el concepto y muestra tu comprobante al recibir.</string>
+    <string name="copy_clabe">Copiar CLABE</string>
+    <string name="copy_beneficiary">Copiar Beneficiario</string>
+    <string name="copy_all">Copiar Datos de Pago</string>
+    <string name="copied_clabe">CLABE copiada al portapapeles</string>
+    <string name="copied_beneficiary">Beneficiario copiado al portapapeles</string>
+    <string name="copied_all">Datos de transferencia copiados al portapapeles</string>
+    <string name="order_success">¡Pedido realizado con éxito!</string>
+    <string name="order_summary">Resumen del Pedido</string>
+    <string name="total">Total:</string>
+    <string name="cart">Ver Carrito</string>
+    <string name="empty_cart">No has seleccionado ningún rol.</string>
+    <string name="fill_all_fields">Por favor revisa los campos marcados.</string>
+    <string name="invalid_phone">Ingresa un número telefónico válido de 10 dígitos.</string>
+    <string name="confirm_order">Confirmar pedido</string>
+    <string name="confirm_order_review_note">Revisa tus datos antes de enviar</string>
+    <string name="step2_order_card_title">Tu pedido</string>
+
+    <string name="order_code_title">¡Pedido Confirmado!</string>
+    <string name="order_code_message">Guarda este código de 4 dígitos para recoger tu pedido:</string>
+    <string name="pickup_code_label">Código de entrega:</string>
+    <string name="enter_order_code">Ingresa el código de 4 dígitos del cliente:</string>
+    <string name="code_hint">Código de 4 dígitos</string>
+    <string name="status_pending">Pendiente</string>
+    <string name="status_delivered">Entregada</string>
+    <string name="mark_as_delivered">Marcar como Entregada</string>
+    <string name="incorrect_code">Código de entrega incorrecto</string>
+    <string name="order_delivered_success">Pedido marcado como entregado</string>
+
+    <string name="my_orders_title">Mis Pedidos</string>
+    <string name="my_orders_subtitle">Consulta tu código de entrega y detalles</string>
+    <string name="my_orders_items_label">Roles incluidos</string>
+    <string name="no_orders_yet">Aún no has realizado ningún pedido.</string>
+    <string name="active_orders_label">Tus Pedidos Activos</string>
+    <string name="max_per_flavor_reached">Máximo 3 roles por sabor en cada pedido</string>
+    <string name="max_active_rolls_reached">Máximo 6 roles pendientes por usuario hasta su entrega</string>
+
+    <string name="admin_title">Panel de Ventas</string>
+    <string name="admin_pin_title">Acceso Restringido</string>
+    <string name="admin_pin_hint">Ingresa el PIN de Administrador</string>
+    <string name="incorrect_pin">PIN incorrecto</string>
+    <string name="total_revenue">Ganancias Totales</string>
+    <string name="total_rolls_sold">Roles Vendidos</string>
+    <string name="filter_all">Todos</string>
+    <string name="filter_pending">Pendientes</string>
+    <string name="filter_delivered">Entregados</string>
+    <string name="admin_delete_order_btn">Cancelar</string>
+    <string name="admin_delete_order_title">Cancelar pedido</string>
+    <string name="admin_delete_order_confirm">¿Seguro que deseas eliminar este pedido del historial?</string>
+    <string name="admin_order_deleted">Pedido cancelado y eliminado</string>
+    <string name="order_history">Historial de Pedidos</string>
+    <string name="clear_history">Limpiar Historial</string>
+    <string name="clear_history_confirm">¿Estás seguro de eliminar el registro de ventas?</string>
+    <string name="clear_cart">Vaciar carrito</string>
+    <string name="clear_cart_short">Vaciar</string>
+    <string name="clear_cart_confirm">¿Deseas vaciar todos los roles seleccionados del carrito?</string>
+    <string name="edit_order">Editar</string>
+    <string name="cart_step_title">Tu Carrito</string>
+    <string name="shipping_step_title">Datos y Pago</string>
+    <string name="continue_to_shipping">Continuar con mis datos</string>
+    <string name="view_orders_btn">Ver</string>
+    <string name="back">Regresar</string>
+    <string name="close">Cerrar</string>
+    <string name="understood">Entendido</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    <string name="cancel">Cancelar</string>
+    <string name="accept">Aceptar</string>
+
+    <string name="help_btn_desc">Ayuda</string>
+    <string name="menu_help">Ayuda y Preguntas</string>
+
+    <string name="help_title">Ayuda y preguntas</string>
+    <string name="help_subtitle">Resuelve tus dudas o contáctanos</string>
+    <string name="help_contact_title">Contacto</string>
+    <string name="help_contact_subtitle">¿Necesitas ayuda? Llámanos o escríbenos.</string>
+    <string name="help_schedule_note">Respondemos durante el horario escolar.</string>
+    <string name="help_whatsapp_action">Escribir por WhatsApp</string>
+    <string name="help_footer_note">Si no encuentras la respuesta que buscas, contáctanos. Estamos para ayudarte.</string>
+    <string name="help_sections_header">Preguntas frecuentes</string>
+    <string name="help_phone_1_label">Teléfono / WhatsApp</string>
+    <string name="help_phone_1_value">+52 493 879 5847</string>
+    <string name="call_action">Llamar</string>
+    <string name="copy_action">Copiar</string>
+    <string name="copied_phone">Teléfono copiado al portapapeles</string>
+    <string name="no_dialer_app">No se encontró aplicación para llamar</string>
+    <string name="no_whatsapp_app">No se pudo abrir WhatsApp</string>
+
+    <string name="help_sec1_title">¿Cómo hago mi pedido?</string>
+    <string name="help_sec1_body">Elige tus sabores con el botón +, toca Ver Carrito para revisar las cantidades y continúa con tus datos de entrega.</string>
+    <string name="help_sec2_title">¿Cómo pago por transferencia?</string>
+    <string name="help_sec2_body">En el Paso 2 elige "Transferencia Digital", copia la CLABE, coloca tu nombre completo en el concepto y muestra tu comprobante al recibir.</string>
+    <string name="help_sec3_title">¿Dónde entregan?</string>
+    <string name="help_sec3_body">Entregamos dentro del plantel en salones, laboratorios, dirección u oficinas durante el horario escolar y recesos. Tu código de 4 dígitos sirve como comprobante.</string>
+    <string name="help_sec4_title">¿Puedo cancelar mi pedido?</string>
+    <string name="help_sec4_body">Antes de confirmar puedes editar sabores o cantidades libremente. Una vez confirmado ya no se puede modificar desde la app; contáctanos por teléfono o WhatsApp.</string>
+
+    <string name="admin_kpi_revenue">Ganancias</string>
+    <string name="admin_kpi_orders">Pedidos</string>
+    <string name="admin_cash_label">Efectivo</string>
+    <string name="admin_transfer_label">Transferencia</string>
+    <string name="admin_brand_subtitle">Roles de Canela</string>
+    <string name="admin_view_summary_btn">Ver resumen de ventas</string>
+    <string name="admin_summary_title">Resumen de ventas</string>
+    <string name="admin_summary_subtitle">Clientes, carreras, personal y sabores</string>
+    <string name="admin_summary_careers">Por carrera (Estudiantes)</string>
+    <string name="admin_summary_staff">No estudiantes / Personal</string>
+    <string name="admin_summary_flavors">Sabores vendidos (total)</string>
+
+    <item name="layoutStepCart" type="id" />
+    <item name="btnNextToCustomerInfo" type="id" />
+    <item name="layoutStepCustomer" type="id" />
+    <item name="tvStep2OrderSummary" type="id" />
+    <item name="btnEditCartFromStep2" type="id" />
+    <item name="btnCheckoutItemDelete" type="id" />
+    <item name="tvMyOrdersBadge" type="id" />
+</resources>

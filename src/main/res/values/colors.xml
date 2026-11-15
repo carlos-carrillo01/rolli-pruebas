@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="burgundy">#800020</color>
+    <color name="burgundy_dark">#5A0016</color>
+    <color name="burgundy_light">#A32A44</color>
+    <color name="warm_brown">#6D4C41</color>
+    <color name="warm_brown_dark">#4A2E2B</color>
+    <color name="warm_brown_light">#8D6E63</color>
+    <color name="cozy_bg">#FAF5EF</color>
+    <color name="cozy_card_bg">#FFFFFF</color>
+    <color name="cozy_card_stroke">#E8DFD5</color>
+    <color name="cozy_surface">#FFF8EE</color>
+    <color name="text_primary">#3E2723</color>
+    <color name="text_secondary">#795548</color>
+    <color name="green_success">#2E7D32</color>
+    <color name="accent_gold">#D4A373</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
